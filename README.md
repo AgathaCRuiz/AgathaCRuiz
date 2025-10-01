@@ -83,34 +83,31 @@
 ## 🔝 Linguagens e Estatísticas
 
 <div align="center">
-  <div style="display: inline-block;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaCRuiz&layout=compact&hide_border=true&title_color=00ffea&text_color=00cfff&icon_color=79ff97&bg_color=30,0b0c1b,1a1f3a,0f111a" 
-      alt="Top Linguagens"
-      />
-  </div>
-  <div style="display: inline-block;">
-    <img 
-      height="180em" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaCRuiz&hide_border=true&ring=00ffea&fire=ff6ec7&currStreakNum=00ffea&sideNums=00cfff&currStreakLabel=79ff97&sideLabels=ffffff&dates=00cfff&background=30,0b0c1b,1a1f3a,0f111a" 
-      alt="Estatísticas de Streak" 
-      />
-  </div>
-</div>
+  <table>
+    <tr>
+      <td style="border: none;">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=AgathaCRuiz&show_icons=true&hide_border=true&rank_icon=github&title_color=00ffea&text_color=ffffff&icon_color=00ffea&bg_color=30,0b0c1b,1a1f3a,0f111a" 
+          alt="Estatísticas Principais"
+        />
+      </td>
+      <td style="border: none;">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaCRuiz&layout=compact&hide_border=true&title_color=00ffea&text_color=ffffff&icon_color=79ff97&bg_color=30,0b0c1b,1a1f3a,0f111a" 
+          alt="Top Linguagens"
+        />
+      </td>
+    </tr>
+  </table>
+  <br>
 
-### Linguagens e Estatísticas
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaCRuiz&layout=compact&hide_border=true&title_color=00ffea&text_color=00cfff&icon_color=79ff97&bg_color=30,0b0c1b,1a1f3a,0f111a) ![Estatísticas de Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgathaCRuiz&hide_border=true&ring=00ffea&fire=ff6ec7&currStreakNum=00ffea&sideNums=00cfff&currStreakLabel=79ff97&sideLabels=ffffff&dates=00cfff&background=30,0b0c1b,1a1f3a,0f111a)
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaCRuiz&layout=compact&hide_border=true&title_color=00ffea&text_color=00cfff&icon_color=79ff97&bg_color=30,0b0c1b,1a1f3a,0f111a">
-  
-  <img 
+<img 
     height="180em" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaCRuiz&hide_border=true&ring=00ffea&fire=ff6ec7&currStreakNum=00ffea&sideNums=00cfff&currStreakLabel=79ff97&sideLabels=ffffff&dates=00cfff&background=30,0b0c1b,1a1f3a,0f111a" 
-    alt="Estatísticas"
-  >
-</picture>
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaCRuiz&hide_border=true&ring=00ffea&fire=ff6ec7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=79ff97&sideLabels=ffffff&dates=ffffff&background=30,0b0c1b,1a1f3a,0f111a" 
+    alt="Estatísticas de Streak" 
+  />
+
+</div>
 
 [![](https://visitcount.itsvg.in/api?id=AgathaCRuiz&icon=0&color=0)](https://visitcount.itsvg.in)
 
