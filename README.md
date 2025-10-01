@@ -1,85 +1,120 @@
-<h1 align="center">Olá! 👋 Seja bem-vindo(a) ao meu GitHub</h1>
+<div align="center">
+
+<h1 align="center">👋 Olá! Bem-vindo(a) ao meu GitHub!</h1>
 
 <p align="center">
-  💻 Desenvolvedora em formação | 📊 Entusiasta de Dados e IA | 🎓 Estudante de ADS<br>
-  <i>Transformando ideias em código e dados em soluções inteligentes.</i>
+  💻 <b>Desenvolvedora em formação</b> | 
+  📊 <b>Entusiasta de Dados & IA</b> | 
+  🎓 <b>Estudante de ADS</b><br><br>
+  
+  <i style="color:#00ffea; text-shadow: 0 0 8px #00ffea;">"Transformando ideias em código, e dados em soluções inteligentes."</i>
 </p>
 
+<p align="center">
+  ⚡ Explorando <b style="color:#ff6ec7;">Machine Learning</b>, 
+  🔮 <b style="color:#9f7aea;">Deep Learning</b>, 
+  🌐 <b style="color:#00fff0;">Web Dev</b> e 
+  🚀 <b style="color:#ffb86c;">IA aplicada</b> <br>
+  🎯 Apaixonada por resolver problemas e criar projetos inovadores.
+</p>
+
+</div>
+
 <div align="center">
-  <a href="mailto:agathacaracco.rz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agatha-ruiz-757111331/)
+[![Gmail](https://img.shields.io/badge/%20Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agathacaracco.rz@gmail.com)
+
+</div>
+
+<br>
+
+## 💻 Ferramentas Principais
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,r,java,cs,c&perline=8&theme=light&style=flat" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,azure,aws,gcp&perline=8&theme=light&style=flat" />
+</p>
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlite,anaconda,figma&perline=8&theme=light&style=flat" />
+</p>
+
+<br>
+
+## 🛠️ Tech Stack: Dados e IA
+
+<div align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&colorA=D22B2B"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white&colorA=DC143C"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&colorA=FF8C00"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&colorA=FFA500"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD233?style=for-the-badge&logo=huggingface&logoColor=black&colorA=FFB800"/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&colorA=D22B2B"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&colorA=2E1C66"/>
+<img src="https://img.shields.io/badge/LangChain-4B0082?style=for-the-badge&logo=python&logoColor=white&colorA=2B004D"/>
+<img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=plotly&logoColor=white&colorA=6A5ACD"/>
+
+<img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white&colorA=4169E1"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&colorA=0000CD"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white&colorA=1976D2"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white&colorA=1E90FF"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&colorA=20B2AA"/>
+<img src="https://img.shields.io/badge/Yolo-A2E4B8?style=for-the-badge&logo=yolo&logoColor=black&colorA=76B98F"/>
+</div>
+
+<br>
+
+## 📜 Certificações
+
+<p align="center">
+  <a href="https://www.credly.com/badges/f67694bb-70e2-435d-8f81-7779b8a83bc4/public_url">
+    <img src="assets/images/python-essentials-1.1.png" width="120"><br>
+    <sub><b>Python Essentials 1</b> - Cisco</sub>
   </a>
-  <a href="https://linkedin.com/in/agatha-ruiz-757111331" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+</p>
 
----
+<br>
 
-## 👩‍💻 Sobre mim
-
-- 🎓 Cursando o 2º semestre de **Análise e Desenvolvimento de Sistemas**
--  Iniciei minha trajetória no ensino técnico integrado ao Ensino Médio
--  Desenvolvi projetos práticos e um TCA com foco em **soluções tecnológicas**
-- 💻 Tenho experiência com **desenvolvimento front-end**, utilizando:
-  - HTML, CSS, JavaScript, C, C++ e C#
-- 🧠 Atuo também com **dados e inteligência artificial**, utilizando:
-  - Python, SQL, Pandas, NumPy, Plotly, Matplotlib, SciPy e Scikit-learn
-- ☁️ Conhecimentos em **Azure**, **MySQL** e **SQLite**
--  Interesso-me por:
-  - Desenvolvimento web, automação, machine learning e design centrado no usuário
--  Busco unir boas práticas, usabilidade e desempenho para criar soluções eficientes
-
----
-
-## 💻 Tech Stack + Linguagens
+## 🔝 Linguagens e Estatísticas
 
 <div align="center">
 
-  <!-- Tech Stack -->
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
 
-  <br/><br/>
+  <!-- Top Linguagens -->
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaCRuiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaCRuiz&layout=compact&hide_border=true&title_color=00ffea&text_color=00cfff&icon_color=79ff97&bg_color=30,0b0c1b,1a1f3a,0f111a" 
+    alt="Top Linguagens" 
+  />
+
+  <!-- Streak Stats -->
+
+<img 
+    height="180em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaCRuiz&hide_border=true&ring=00ffea&fire=ff6ec7&currStreakNum=00ffea&sideNums=00cfff&currStreakLabel=79ff97&sideLabels=ffffff&dates=00cfff&background=30,0b0c1b,1a1f3a,0f111a" 
+    alt="Estatísticas de Streak" 
+  />
+
+  </div>
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AgathaCRuiz&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=AgathaCRuiz&theme=dark&hide_border=false"/>
-</div>
-
----
 
 [![](https://visitcount.itsvg.in/api?id=AgathaCRuiz&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
+<br>
 
-<picture align="center">
+## 🐍 Contribuições
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
