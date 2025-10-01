@@ -79,31 +79,26 @@
 </p>
 
 <br>
-
 ## 🔝 Linguagens e Estatísticas
 
-<div align="center">
+<p align="center">
 
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-
-  <!-- Top Linguagens -->
+<!-- Top Linguagens -->
 
 <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaCRuiz&layout=compact&hide_border=true&title_color=00ffea&text_color=00cfff&icon_color=79ff97&bg_color=30,0b0c1b,1a1f3a,0f111a" 
-    alt="Top Linguagens" 
-  />
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaCRuiz&layout=compact&hide_border=true&title_color=00ffea&text_color=00cfff&icon_color=79ff97&bg_color=30,0b0c1b,1a1f3a,0f111a" 
+  alt="Top Linguagens" 
+/>
 
-  <!-- Streak Stats -->
+<!-- Streak Stats -->
 
 <img 
-    height="180em" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaCRuiz&hide_border=true&ring=00ffea&fire=ff6ec7&currStreakNum=00ffea&sideNums=00cfff&currStreakLabel=79ff97&sideLabels=ffffff&dates=00cfff&background=30,0b0c1b,1a1f3a,0f111a" 
-    alt="Estatísticas de Streak" 
-  />
+  height="180em" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaCRuiz&hide_border=true&ring=00ffea&fire=ff6ec7&currStreakNum=00ffea&sideNums=00cfff&currStreakLabel=79ff97&sideLabels=ffffff&dates=00cfff&background=30,0b0c1b,1a1f3a,0f111a" 
+  alt="Estatísticas de Streak" 
+/>
 
-  </div>
-
-</div>
+</p>
 
 [![](https://visitcount.itsvg.in/api?id=AgathaCRuiz&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -111,10 +106,9 @@
 
 ## 🐍 Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+<p align="center">
+  <img 
+    alt="github contribution grid snake animation" 
+    src="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake-dark.svg"
+  >
+</p>
