@@ -79,24 +79,14 @@
 </p>
 
 <br>
+
 ## 🔝 Linguagens e Estatísticas
 
 <p align="center">
 
-<!-- Top Linguagens -->
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaCRuiz&layout=compact&hide_border=true&title_color=00ffea&text_color=00cfff&icon_color=79ff97&bg_color=30,0b0c1b,1a1f3a,0f111a)
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaCRuiz&layout=compact&hide_border=true&title_color=00ffea&text_color=00cfff&icon_color=79ff97&bg_color=30,0b0c1b,1a1f3a,0f111a" 
-  alt="Top Linguagens" 
-/>
-
-<!-- Streak Stats -->
-
-<img 
-  height="180em" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaCRuiz&hide_border=true&ring=00ffea&fire=ff6ec7&currStreakNum=00ffea&sideNums=00cfff&currStreakLabel=79ff97&sideLabels=ffffff&dates=00cfff&background=30,0b0c1b,1a1f3a,0f111a" 
-  alt="Estatísticas de Streak" 
-/>
+![Estatísticas de Streak](https://github-readme-streak-stats.herokuapp.com/?user=AgathaCRuiz&hide_border=true&ring=00ffea&fire=ff6ec7&currStreakNum=00ffea&sideNums=00cfff&currStreakLabel=79ff97&sideLabels=ffffff&dates=00cfff&background=30,0b0c1b,1a1f3a,0f111a)
 
 </p>
 
