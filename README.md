@@ -1,161 +1,158 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d1b3d,100:0d0d0d&height=120&section=header&text=Agatha%20Ruiz&fontSize=42&fontColor=ffb3c6&fontAlignY=65&desc=Developer%20%7C%20Data%20%26%20AI%20Enthusiast&descFontColor=d4a0c0&descSize=16&descAlignY=85" />
+# ✨ Agatha Ruiz
+### 💻 Full Stack Developer • Machine Learning • AI Enthusiast
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFB3C6&center=true&vCenter=true&width=700&lines=Transformando+ideias+em+solu%C3%A7%C3%B5es+digitais;Python+%7C+React+%7C+FastAPI+%7C+Flutter;Machine+Learning+e+Intelig%C3%AAncia+Artificial;Sempre+aprendendo+e+construindo+novos+projetos+%F0%9F%8C%B8"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/agatha-ruiz-757111331/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=ffb3c6&labelColor=0d0d0d" />
-  </a>
-  &nbsp;
-  <a href="mailto:agathacaracco.rz@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ffb3c6&labelColor=0d0d0d" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/AgathaCRuiz">
-    <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffb3c6&labelColor=0d0d0d" />
-  </a>
-</p>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=ffb3c6&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+c%C3%B3digo...;Dados+em+solu%C3%A7%C3%B5es+inteligentes...;Machine+Learning+%7C+Web+Dev+%7C+Mobile...;Sempre+aprendendo+%F0%9F%8C%B8" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/agatha-ruiz-757111331/">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=FFB3C6"/>
+</a>
+<a href="mailto:agathacaracco.rz@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=FFB3C6"/>
+</a>
+<a href="https://github.com/AgathaCRuiz">
+  <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=FFB3C6"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=AgathaCRuiz&color=ffb3c6&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
-
-## ✦ Sobre mim
-
-```python
-agatha = {
-    "foco":       ["Machine Learning", "Web Dev Fullstack", "Mobile", "IA Aplicada"],
-    "atualmente": ["escola_db — sistema de gestão escolar em MySQL",
-                   "App de drinks em Flutter",
-                   "Explorando LLMs e agentes inteligentes"],
-    "interesses": ["dados", "design", "produtos que resolvem problemas reais"],
-    "contato":    "agathacaracco.rz@gmail.com"
-}
-```
-
----
-
-## ✦ Tech Stack
-
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=ffb3c6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=ffb3c6)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=ffb3c6)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=ffb3c6)
-![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=ffb3c6)
-
-**Frameworks & Ferramentas**
-
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=ffb3c6)
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0d0d?style=for-the-badge&logo=fastapi&logoColor=ffb3c6)
-![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=ffb3c6)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d0d0d?style=for-the-badge&logo=streamlit&logoColor=ffb3c6)
-![Vite](https://img.shields.io/badge/Vite-0d0d0d?style=for-the-badge&logo=vite&logoColor=ffb3c6)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d0d0d?style=for-the-badge&logo=jupyter&logoColor=ffb3c6)
-
-**Banco de Dados**
-
-![MySQL](https://img.shields.io/badge/MySQL-0d0d0d?style=for-the-badge&logo=mysql&logoColor=ffb3c6)
-![SQLite](https://img.shields.io/badge/SQLite-0d0d0d?style=for-the-badge&logo=sqlite&logoColor=ffb3c6)
-
-**DevOps & Design**
-
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=ffb3c6)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffb3c6)
-![Figma](https://img.shields.io/badge/Figma-0d0d0d?style=for-the-badge&logo=figma&logoColor=ffb3c6)
-![VSCode](https://img.shields.io/badge/VSCode-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=ffb3c6)
-
----
-
-## ✦ Stack de Dados & IA
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d0d0d?style=for-the-badge&logo=scikit-learn&logoColor=ffb3c6)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d0d0d?style=for-the-badge&logo=python&logoColor=ffb3c6)
-![LightGBM](https://img.shields.io/badge/LightGBM-0d0d0d?style=for-the-badge&logo=python&logoColor=ffb3c6)
-![CatBoost](https://img.shields.io/badge/CatBoost-0d0d0d?style=for-the-badge&logo=python&logoColor=ffb3c6)
-![SHAP](https://img.shields.io/badge/SHAP-0d0d0d?style=for-the-badge&logo=python&logoColor=ffb3c6)
-![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=ffb3c6)
-![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=ffb3c6)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d0d0d?style=for-the-badge&logo=plotly&logoColor=ffb3c6)
-![Plotly](https://img.shields.io/badge/Plotly-0d0d0d?style=for-the-badge&logo=plotly&logoColor=ffb3c6)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge&logo=openai&logoColor=ffb3c6)
-![Groq](https://img.shields.io/badge/Groq-0d0d0d?style=for-the-badge&logo=python&logoColor=ffb3c6)
-![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=python&logoColor=ffb3c6)
-![Anaconda](https://img.shields.io/badge/Anaconda-0d0d0d?style=for-the-badge&logo=anaconda&logoColor=ffb3c6)
-
----
-
-## ✦ Linha do Tempo
-
-```
-2023 ──────────────────────────────────────────────────────────────► hoje
-
-  📌 Início em ADS          🗄️ SQL & Modelagem ER     📱 Flutter & Mobile
-  HTML · CSS · JS           MySQL · SQLite             Dart · UI Design
-
-  🐍 Python & Dados         🤖 Machine Learning        🌐 Web Fullstack
-  Pandas · NumPy            Scikit-Learn · XGBoost     React · FastAPI · Vite
-  Matplotlib · Plotly       LightGBM · CatBoost        Streamlit · REST APIs
-                            SHAP · Isolation Forest
-
-                                                       🧠 IA Aplicada
-                                                       OpenAI · Groq · Whisper
-                                                       LangChain · Agentes
-```
-
----
-
-## ✦ Projetos em Destaque
-
-| &nbsp; | Projeto | Descrição | Stack |
-|--------|---------|-----------|-------|
-| 🛡️ | **FraudShield** | Detecção de fraudes com ML, SHAP e deploy via API | Python · FastAPI · XGBoost · SHAP |
-| 🎙️ | **Meeting AI** | Transcreve reuniões e gera atas automáticas | React · FastAPI · Whisper · Groq |
-| 💰 | **Edu** | Agente financeiro inteligente com chat e dashboard | FastAPI · React/Vite · LangChain |
-| 🗄️ | **escola_db** | Sistema de gestão escolar com modelagem relacional | MySQL · Mermaid ERD |
-| 📱 | **App Drinks** | App de shake/bubble tea com estética personalizada | Flutter · Dart |
-
----
-
-## ✦ Estatísticas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AgathaCRuiz&show_icons=true&hide_border=true&rank_icon=github&title_color=ffb3c6&text_color=c9a0b8&icon_color=ffb3c6&bg_color=0d0d0d&ring_color=2d1b3d" />
+## 🌸 Sobre Mim
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgathaCRuiz&layout=compact&hide_border=true&title_color=ffb3c6&text_color=c9a0b8&bg_color=0d0d0d" />
+💡 Apaixonada por **Dados, Inteligência Artificial e Desenvolvimento Full Stack**
 
-<br/>
+🚀 Desenvolvendo projetos com **Python, FastAPI, React, Flutter e Machine Learning**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaCRuiz&hide_border=true&ring=ffb3c6&fire=d4a0c0&currStreakNum=ffb3c6&sideNums=c9a0b8&currStreakLabel=ffb3c6&sideLabels=c9a0b8&dates=555&background=0d0d0d" />
+📚 Atualmente aprofundando conhecimentos em **IA Generativa, Engenharia de Dados e LLMs**
 
-<br/>
+🎯 Objetivo: atuar nas áreas de **Data Science, IA ou Desenvolvimento Full Stack**
 
-<img src="https://github-profile-trophy.vercel.app/?username=AgathaCRuiz&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AgathaCRuiz&theme=rose_pine" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AgathaCRuiz&theme=rose_pine" />
 
 </div>
 
 ---
 
-## ✦ Contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=AgathaCRuiz&icon=0&color=9)](https://visitcount.itsvg.in)
+## ⚡ Linguagens
+
+<img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Dart-1a1b27?style=for-the-badge&logo=dart&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Markdown-1a1b27?style=for-the-badge&logo=markdown&logoColor=FFB3C6"/>
+
+## 🌐 Frameworks & Ferramentas
+
+<img src="https://img.shields.io/badge/React-1a1b27?style=for-the-badge&logo=react&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Vite-1a1b27?style=for-the-badge&logo=vite&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/FastAPI-1a1b27?style=for-the-badge&logo=fastapi&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Flutter-1a1b27?style=for-the-badge&logo=flutter&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Streamlit-1a1b27?style=for-the-badge&logo=streamlit&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Jupyter-1a1b27?style=for-the-badge&logo=jupyter&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Anaconda-1a1b27?style=for-the-badge&logo=anaconda&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/VSCode-1a1b27?style=for-the-badge&logo=visualstudiocode&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Figma-1a1b27?style=for-the-badge&logo=figma&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Postman-1a1b27?style=for-the-badge&logo=postman&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=FFB3C6"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d1b3d,100:0d0d0d&height=80&section=footer" />
+---
+
+<div align="center">
+
+## 🤖 Dados & Inteligência Artificial
+
+<img src="https://img.shields.io/badge/Pandas-1a1b27?style=for-the-badge&logo=pandas&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/NumPy-1a1b27?style=for-the-badge&logo=numpy&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Matplotlib-1a1b27?style=for-the-badge&logo=python&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Plotly-1a1b27?style=for-the-badge&logo=plotly&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-1a1b27?style=for-the-badge&logo=scikitlearn&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/XGBoost-1a1b27?style=for-the-badge&logo=python&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/LightGBM-1a1b27?style=for-the-badge&logo=python&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/CatBoost-1a1b27?style=for-the-badge&logo=python&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/SHAP-1a1b27?style=for-the-badge&logo=python&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/LangChain-1a1b27?style=for-the-badge&logo=python&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/OpenAI-1a1b27?style=for-the-badge&logo=openai&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Groq-1a1b27?style=for-the-badge&logo=python&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Whisper-1a1b27?style=for-the-badge&logo=openai&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-1a1b27?style=for-the-badge&logo=huggingface&logoColor=FFB3C6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🗄️ Banco de Dados
+
+<img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/SQLite-1a1b27?style=for-the-badge&logo=sqlite&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1a1b27?style=for-the-badge&logo=postgresql&logoColor=FFB3C6"/>
+<img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=FFB3C6"/>
+
+</div>
+
+---
+
+
+<div align="center">
+
+## 📊 GitHub Analytics
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AgathaCRuiz&hide_border=true&ring=FFB3C6&fire=d4a0c0&currStreakNum=FFB3C6&sideNums=c9a0b8&currStreakLabel=FFB3C6&sideLabels=c9a0b8&dates=555555&background=1a1b27"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AgathaCRuiz&theme=rose_pine"/>
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AgathaCRuiz&theme=dracula&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AgathaCRuiz/AgathaCRuiz/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌸 *"Transformando aprendizado em projetos e projetos em experiência."*
+
+</div>
